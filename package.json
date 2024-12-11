@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Sammot/rogues#readme",
   "dependencies": {
     "express": "~4.17.1",
-    "socket.io": "~4.3.1",
+    "socket.io": "~4.7.5",
     "sqlite3": "~5.0.2"
   }
 }
